@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zhanshi1997
-- 👀 I’m interested in large data analysis using programming languages, machine learning, and climate model developing.
+- 👀 I’m interested in large data analysis mainly using python, machine learning, and climate model developing.
 - 🌱 I’m currently learning SQL and ArcGIS.
 - 📫 Feel free to reach me by email: zhanshi@g.ucla.edu
 
